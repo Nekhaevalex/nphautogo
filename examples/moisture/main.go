@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	moisture "github.com/Nekhaevalex/nphautogo/sensors"
+	"github.com/Nekhaevalex/nphautogo/sensors/moisture"
 )
 
 func main() {
